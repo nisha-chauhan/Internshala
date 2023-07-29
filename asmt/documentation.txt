@@ -1,0 +1,25 @@
+----> come into the project directory assignment
+cd asmt 
+
+---> install requirment.txt by using 
+pip install -r requirment.txt
+
+----> run the project by using 
+python mannage.py runserver
+default port is 8000
+
+-->url-: http://127.0.0.1:8000/
+this will show "Thanks For The Opportunity"
+
+--> when you go to app/hello
+it show hello world 
+
+--->app/users
+you will see the list of added users
+
+--->there is a navbar where you can directly add the user or you can go to, app/add-user/
+you can the user details here and after submit it will rediect you to the users list in the home page
+
+
+
+----> added the sql project file in the with the folder Sql
