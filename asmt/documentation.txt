@@ -20,6 +20,8 @@ you will see the list of added users
 --->there is a navbar where you can directly add the user or you can go to, app/add-user/
 you can the user details here and after submit it will rediect you to the users list in the home page
 
+---> app/user/<int:user_id>/ or you can simply click on the name or id to see the specific user details
+
 
 
 ----> added the sql project file in the with the folder Sql
